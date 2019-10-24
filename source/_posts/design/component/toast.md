@@ -63,6 +63,7 @@ sidebar: toast
 ## 纯文Toast
 纯文Toast通常用于强调需要补充信息，内容较多时的反馈，默认2s后自动消失。
 请注意，如果需要表达的信息较多且非常重要，需要用户明确知晓，请考虑使用提示框组件。
+纯文Toast将icon属性设置为none即为纯文Toast
 <div class="m-doc-custom-examples">
 	<div class="m-doc-custom-examples-error ">
 		<img src="../../../img/design/component/toast/6.png">
